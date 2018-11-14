@@ -1,4 +1,4 @@
-package cn.tedu.lock;
+package cn.pypy.lock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

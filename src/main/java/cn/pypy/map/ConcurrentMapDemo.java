@@ -1,4 +1,4 @@
-package cn.tedu.map;
+package cn.pypy.map;
 
 import org.junit.Test;
 

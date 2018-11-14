@@ -1,4 +1,4 @@
-package cn.tedu.atomic;
+package cn.pypy.atomic;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.atomic.AtomicInteger;

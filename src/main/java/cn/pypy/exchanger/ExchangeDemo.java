@@ -1,4 +1,4 @@
-package cn.tedu.exchanger;
+package cn.pypy.exchanger;
 
 import java.util.concurrent.Exchanger;
 

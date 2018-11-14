@@ -1,4 +1,4 @@
-package cn.tedu.blockQueue;
+package cn.pypy.blockQueue;
 
 public class Student implements Comparable<Student>{
 

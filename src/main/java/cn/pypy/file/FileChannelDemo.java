@@ -1,4 +1,4 @@
-package cn.tedu.file;
+package cn.pypy.file;
 
 import org.junit.Test;
 

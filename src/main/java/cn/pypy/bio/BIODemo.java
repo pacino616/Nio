@@ -1,4 +1,4 @@
-package cn.tedu.bio;
+package cn.pypy.bio;
 
 import org.junit.Test;
 

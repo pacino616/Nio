@@ -1,4 +1,4 @@
-package cn.tedu.barrier;
+package cn.pypy.barrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

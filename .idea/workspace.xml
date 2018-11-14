@@ -385,11 +385,11 @@
   </component>
   <component name="RunManager" selected="JUnit.FileChannelDemo.read">
     <configuration name="AtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.atomic.AtomicDemo" />
+      <option name="MAIN_CLASS_NAME" value="cn.pypy.atomic.AtomicDemo" />
       <module name="Nio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.tedu.atomic.*" />
+          <option name="PATTERN" value="cn.pypy.atomic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,11 +398,11 @@
       </method>
     </configuration>
     <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.callable.CallableDemo" />
+      <option name="MAIN_CLASS_NAME" value="cn.pypy.callable.CallableDemo" />
       <module name="Nio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.tedu.callable.*" />
+          <option name="PATTERN" value="cn.pypy.callable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,11 +411,11 @@
       </method>
     </configuration>
     <configuration name="LockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.lock.LockDemo" />
+      <option name="MAIN_CLASS_NAME" value="cn.pypy.lock.LockDemo" />
       <module name="Nio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.tedu.lock.*" />
+          <option name="PATTERN" value="cn.pypy.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,12 +427,12 @@
       <module name="Nio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.tedu.file.*" />
+          <option name="PATTERN" value="cn.pypy.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.tedu.file" />
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.file.FileChannelDemo" />
+      <option name="PACKAGE_NAME" value="cn.pypy.file" />
+      <option name="MAIN_CLASS_NAME" value="cn.pypy.file.FileChannelDemo" />
       <option name="METHOD_NAME" value="read" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -443,14 +443,61 @@
       <module name="Nio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.tedu.file.*" />
+          <option name="PATTERN" value="cn.pypy.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.tedu.file" />
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.file.FileChannelDemo" />
+      <option name="PACKAGE_NAME" value="cn.pypy.file" />
+      <option name="MAIN_CLASS_NAME" value="cn.pypy.file.FileChannelDemo" />
       <option name="METHOD_NAME" value="write" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

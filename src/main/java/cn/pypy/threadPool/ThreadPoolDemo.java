@@ -1,4 +1,4 @@
-package cn.tedu.threadPool;
+package cn.pypy.threadPool;
 
 import org.junit.Test;
 
